@@ -1,4 +1,4 @@
-![animação](https://github.com/gianIucca/clone_netflix/blob/main/public/Screenshot_3.png)
+![animação](https://github.com/gianIucca/clone_pipefy/blob/main/public/drag.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
